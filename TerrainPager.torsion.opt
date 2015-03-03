@@ -1,0 +1,27 @@
+<TorsionProjectOptions>
+<Address>127.0.0.1</Address>
+<Password>password</Password>
+<Port>6060</Port>
+<LastConfig>Debug</LastConfig>
+<Breakpoints/>
+<Bookmarks/>
+<OpenFiles>
+<File ScrollX="0" ScrollY="103" Active="true">levels\TerrainPager.mis</File>
+<File ScrollX="0" ScrollY="0">scripts\server\terrainPager.cs</File>
+<File ScrollX="0" ScrollY="0">tools\roadEditor\roadEditor.cs</File>
+<File ScrollX="0" ScrollY="125">tools\roadEditor\main.cs</File>
+<File ScrollX="0" ScrollY="9">art\skies\night\materials.cs</File>
+<File ScrollX="0" ScrollY="1">art\terrains\materials.cs</File>
+<File ScrollX="0" ScrollY="0">scripts\main.cs</File>
+<File ScrollX="0" ScrollY="12">scripts\server\scriptExec.cs</File>
+<File ScrollX="0" ScrollY="0">art\terrains\FlightGear\materials.cs</File>
+<File ScrollX="0" ScrollY="0">art\shapes\Cheetah\materials.cs</File>
+<File ScrollX="0" ScrollY="0">levels\TestTP.mis</File>
+<File ScrollX="0" ScrollY="1016">levels\Outpost.mis</File>
+<File ScrollX="0" ScrollY="0">tools\forestEditor\forestEditor.cs</File>
+<File ScrollX="0" ScrollY="0">tools\forestEditor\forestEditorGui.cs</File>
+<File ScrollX="0" ScrollY="220">tools\forestEditor\main.cs</File>
+<File ScrollX="0" ScrollY="0">art\forest\managedItemData.cs</File>
+<File ScrollX="0" ScrollY="79">levels\Empty Terrain.mis</File>
+</OpenFiles>
+</TorsionProjectOptions>
