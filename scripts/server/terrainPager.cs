@@ -5,7 +5,7 @@
 function TerrainPager::UpdateSkybox()
 {
    WS_SkyboxCubemap.updateFaces();//HERE: deal with different cubemap names?  Naw...  
-   echo("skybox updated faces");
+   WS_SkyboxMaterial.reload();
 }
 
 function TerrainPager::onAdd(%this,%obj)

@@ -6,11 +6,9 @@
 <Breakpoints/>
 <Bookmarks/>
 <OpenFiles>
-<File ScrollX="0" ScrollY="103" Active="true">levels\TerrainPager.mis</File>
-<File ScrollX="0" ScrollY="0">scripts\server\terrainPager.cs</File>
-<File ScrollX="0" ScrollY="0">tools\roadEditor\roadEditor.cs</File>
-<File ScrollX="0" ScrollY="125">tools\roadEditor\main.cs</File>
-<File ScrollX="0" ScrollY="9">art\skies\night\materials.cs</File>
+<File ScrollX="0" ScrollY="25">levels\TerrainPager.mis</File>
+<File ScrollX="0" ScrollY="0" Active="true">scripts\server\terrainPager.cs</File>
+<File ScrollX="0" ScrollY="20">art\skies\night\materials.cs</File>
 <File ScrollX="0" ScrollY="1">art\terrains\materials.cs</File>
 <File ScrollX="0" ScrollY="0">scripts\main.cs</File>
 <File ScrollX="0" ScrollY="12">scripts\server\scriptExec.cs</File>
